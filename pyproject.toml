@@ -1,0 +1,12 @@
+[project]
+name = "gradio-openai-chat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gradio>=6.15.2",
+    "ipykernel>=7.2.0",
+    "openai>=2.38.0",
+    "python-dotenv>=1.0.0",
+]
