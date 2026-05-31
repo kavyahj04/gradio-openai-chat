@@ -1,5 +1,4 @@
-gradio-openai-chat README:
-markdown# gradio-openai-chat
+# gradio-openai-chat
 
 A simple Gradio UI for chatting with OpenAI's GPT models with streaming responses.
 
